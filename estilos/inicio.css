@@ -1,0 +1,21 @@
+#barralat{
+    display: inline-block;
+    float: left;
+    width: 30%;
+    border: double;
+}
+#info{
+    display: inline-block;
+    width: 65%;
+    padding: 8px;
+    text-align: center;
+}
+#titulo3{
+   display: inline-block;
+    width: 95%;
+    color: red;
+    text-align:left;
+    font-size: 90px;
+    font-family:inherit;
+    text-align:right;
+}

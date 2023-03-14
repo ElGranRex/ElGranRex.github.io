@@ -1,0 +1,17 @@
+#perro{
+    display: inline-block;
+    float: left;
+    width: 30%;
+    border: double;
+    color: red;
+}
+#info{
+    display: inline-block;
+    width: 65%;
+    padding: 8px;
+    text-align: center;
+}
+#texto{
+    text-align: center;
+    
+}
